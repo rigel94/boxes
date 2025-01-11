@@ -1,0 +1,115 @@
+.container {
+  display: grid;
+  place-content: center;
+}
+
+.shapka {
+  background-color: #a52b2a;
+  display: flex;
+  place-content: center;
+  align-items: center;
+  width: auto;
+  height: 110px;
+  font-size: 35px;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lorem {
+  height: 90px;
+  font-size: 40px;
+  color: #a52b2a;
+  font-family: serif;
+  font-weight: bold;
+  display: flex;
+  place-content: left;
+  align-items: center;
+}
+
+.blocks {
+  display: flex;
+  gap: 25px;
+  text-wrap: balance;
+  font-size: 20px;
+  color: white;
+}
+
+.block1 {
+  background-color: #a52b2a;
+  width: 350px;
+  height: 225px;
+  padding: 12px;
+}
+
+.block2 {
+  background-color: #a52b2a;
+  width: 350px;
+  height: 225px;
+  padding: 12px;
+}
+
+.block3 {
+  background-color: #a52b2a;
+  width: 350px;
+  height: 225px;
+  padding: 12px;
+}
+
+.lorem2 {
+  height: 80px;
+  font-size: 35px;
+  color: #a52b2a;
+  font-family: serif;
+  font-weight: bold;
+  display: flex;
+  place-content: left;
+  align-items: center;
+}
+
+.miniblocks {
+  display: flex;
+  justify-content: space-between;
+  text-wrap: balance;
+  font-size: 20px;
+  color: white;
+}
+
+.blocky1 {
+  background-color: #a52b2a;
+  width: 260px;
+  height: 250px;
+  padding: 6px;
+}
+
+.blocky2 {
+  background-color: #a52b2a;
+  width: 260px;
+  height: 250px;
+  padding: 6px;
+}
+.blocky3 {
+  background-color: #a52b2a;
+  width: 260px;
+  height: 250px;
+  padding: 6px;
+}
+
+.blocky4 {
+  background-color: #a52b2a;
+  width: 260px;
+  height: 250px;
+  padding: 6px;
+}
+
+.podval {
+  background-color: #a52b2a;
+  display: flex;
+  place-content: center;
+  align-items: center;
+  width: auto;
+  height: 105px;
+  font-size: 35px;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 25px;
+}
